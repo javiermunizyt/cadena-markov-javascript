@@ -1,3 +1,14 @@
+/*
+Tutorial completo en mi canal de YouTube
+https://youtu.be/Y484uXoyJMU
+
+Creado por: Javier Muñiz
+Para el canal: Programar es increíble.
+
+Inspirado en el código del profesor Daniel Shiffman publicado en su canal The Coding Train:
+https://www.youtube.com/watch?v=eGFJ8vugIWA
+*/
+
 
 const orden = 6;
 var ngramas = {};	//objeto ngrama
